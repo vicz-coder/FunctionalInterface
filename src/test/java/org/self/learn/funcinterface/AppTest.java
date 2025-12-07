@@ -1,4 +1,4 @@
-package org.self.learn.creational;
+package org.self.learn.funcinterface;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
