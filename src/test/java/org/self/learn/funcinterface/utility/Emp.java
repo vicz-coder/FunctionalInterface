@@ -1,10 +1,12 @@
 package org.self.learn.funcinterface.utility;
 
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 import java.util.List;
 
 @Data
+@NoArgsConstructor
 public class Emp {
 
     private String name;
